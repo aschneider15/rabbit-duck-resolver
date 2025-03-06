@@ -1,6 +1,6 @@
 # Rabbit-Duck Resolver
 
-An image classifier created by Aidan C. Schneider, November 2023
+An image classifier which can be used to determine whether an image is more duck-like or rabbit like. Created by Aidan C. Schneider, November 2023.
 
 ## Project outline
 
